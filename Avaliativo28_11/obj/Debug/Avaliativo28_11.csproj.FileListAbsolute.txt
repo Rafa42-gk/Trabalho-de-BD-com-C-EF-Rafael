@@ -1,0 +1,12 @@
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\obj\Debug\Avaliativo28_11.csproj.AssemblyReference.cache
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\obj\Debug\Avaliativo28_11.csproj.CoreCompileInputs.cache
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\bin\Debug\Avaliativo28_11.exe.config
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\bin\Debug\Avaliativo28_11.exe
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\bin\Debug\Avaliativo28_11.pdb
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\bin\Debug\EntityFramework.dll
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\bin\Debug\EntityFramework.xml
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\obj\Debug\Avaliati.9583FE53.Up2Date
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\obj\Debug\Avaliativo28_11.exe
+C:\Users\rafael.lmarquezin\source\repos\Avaliativo28_11\Avaliativo28_11\obj\Debug\Avaliativo28_11.pdb
